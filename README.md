@@ -23,16 +23,10 @@
 
 ## 🌟 **SESSION LINKS** 🌟
 ### 🔷 SHORT SESSIONS
-[![SESSION 1](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-8A2BE2?style=for-the-badge&logo=heroku)](https://princesession-653c5b876049.herokuapp.com)
-[![SESSION 2](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-FF69B4?style=for-the-badge&logo=heroku)](https://sessionp-ffd02587aaea.herokuapp.com)  
-[![SESSION 3](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-00BFFF?style=for-the-badge&logo=koyeb)](https://dead-christel-secktor-f9b56895.koyeb.app/)
-[![SESSION 4](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-32CD32?style=for-the-badge&logo=render)](https://princesesionn.onrender.com)
-[![SESSION 5](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡-E6E6FA?style=for-the-badge&logo=render)](https://shortsession.onrender.com)
+[![SESSION 1](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_1-8A2BE2?style=for-the-badge&logo=heroku)](https://princessession-0a4aeffc655b.herokuapp.com)
+[![SESSION 2](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_2-FF69B4?style=for-the-badge&logo=heroku)](https://shortsession-fd57a1c06fba.herokuapp.com)  
+[![SESSION 3](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_3-E6E6FA?style=for-the-badge&logo=render)](https://shortsession.onrender.com)
 
-
-### 🔶 LONG SESSIONS (PANEL)
-[![PANEL 1](https://img.shields.io/badge/📡_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝟭-483D8B?style=for-the-badge)](https://prince-new-base64-pair.onrender.com)
-[![PANEL 2](https://img.shields.io/badge/📡_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝟮-008080?style=for-the-badge)](https://prince-session-base64.onrender.com)
 
 ---
 

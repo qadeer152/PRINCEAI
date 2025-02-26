@@ -57,6 +57,17 @@ throw false
 bot.testbot = isEnable
 break	
 
+		  case 'oreact':
+		  case 'ownerreacts':
+	case 'ownerreact':
+isAll = true
+if (!isROwner) {
+global.dfail('rowner', m, conn)
+throw false
+}
+bot.ownerreacts = isEnable
+break	
+
 		  case 'statuslikes':
 		  case 'statuslike':
 		  case 'slikes':
@@ -594,6 +605,9 @@ default:
 
 💫 *\`${usedPrefix + command} autoreaction/reactions\`*  
    ➤ Enable auto-reactions to chats
+
+👑 *\`${usedPrefix + command} ownerreact/oreact\`*  
+   ➤ Enable auto owner react to bots messages
 
 ♥️ *\`${usedPrefix + command} statuslikes/likes\`*  
    ➤ Enable auto status likes to bot

@@ -26,6 +26,11 @@
       "required": true,
       "value": "6281220527432,Prince♥️The Developer"
     },
+    "owner_react_emojie": {
+      "description": "put one emojie for owner reacts",
+      "required": false,
+      "value": "🤍"
+    },
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
@@ -55,6 +60,11 @@
       "description": "make it true to react on chats",
       "required": false,
       "value": "false"
+    },
+    "autoreactions_emojies": {
+      "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
+      "required": false,
+      "value": "💛,🤍,💗,♥️,💞"
     },
     "VAR_APP": {
       "description": "put same app name you entered above",
